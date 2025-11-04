@@ -1,13 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Welcom to my world
+subtitle: Simple introduction to me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Jeong Hyundo.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I'm attending PKNU University
+- My major is computer endgineering
 
 What else do you need?
 
